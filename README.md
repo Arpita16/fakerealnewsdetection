@@ -28,7 +28,7 @@ This project applies machine learning techniques to detect fake news using TF-ID
 ## ⚙️ Setup & Run
 
  Open the notebook directly in Colab:
-                [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Arpita16/fakerealnewsdetection/blob/main/fakerealnewsdetection.ipynb)
+               [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Arpita16/fakerealnewsdetection/blob/main/FakeTrueNewsDetection.ipynb)
 
 Or clone this repository:
 
@@ -47,11 +47,12 @@ The model achieved 98% accuracy on the test dataset.
 
 ## 👩‍💻 Author
 
-Arpita Banerjee Darnal
-📧 arpita16.4u@gmail.com
+**Arpita Banerjee Darnal**
 
-💼 LinkedIn:https://www.linkedin.com/in/arpita-banerjee-darnal/
+ 📧 arpita16.4u@gmail.com
 
- | GitHub:https://github.com/Arpita16
+ 💼 LinkedIn:https://www.linkedin.com/in/arpita-banerjee-darnal/
+
+   | GitHub:https://github.com/Arpita16
 
 
